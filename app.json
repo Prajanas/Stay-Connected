@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "Stay Connect",
+    "slug": "stay-connect",
+    "version": "1.0.0",
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.funity.stayconnect"
+    },
+    "android": {
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBleb2xSbDPGoyX57JZ0CJ97DE63CfRDgI"
+        }
+      },
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.funity.stayconnect"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "475e1a48-15c9-46ab-9411-657584340670"
+      }
+    }
+  }
+}

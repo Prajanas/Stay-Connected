@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "215283414590",
+    "firebase_url": "https://active-meet-default-rtdb.firebaseio.com",
+    "project_id": "active-meet",
+    "storage_bucket": "active-meet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215283414590:android:f2cf22cdf5eaa592df836f",
+        "android_client_info": {
+          "package_name": "com.funity.stayconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215283414590-prl9ppf9tvhkishbimokj47se909337j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funity.stayconnect",
+            "certificate_hash": "ca722e7b5376df906f4fb5bcec5f1b6c39b04594"
+          }
+        },
+        {
+          "client_id": "215283414590-tdr25bmuuogti88nvpi1a5rsqsefp0qh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.funity.stayconnect",
+            "certificate_hash": "1544c5bdf8eb55e32be8fe9473f98901bdbf57c2"
+          }
+        },
+        {
+          "client_id": "215283414590-km5e5kphnh11m8ucdmi9cpkagpafdnm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCauHrWy9StDgA5GeO0tIydyF8oKycpqVY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215283414590-km5e5kphnh11m8ucdmi9cpkagpafdnm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
